@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Logo of LXQt](https://commons.wikimedia.org/wiki/File:Helix_lxqt.svg)
